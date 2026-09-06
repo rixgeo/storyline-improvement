@@ -41,3 +41,7 @@ It can be considered a fixed and refined alternative to *Storyline Enhancement* 
 ---
 
 ## 📥 Download & Community
+* 🌐 **GitHub Releases (Direct Archive):** [GitHub Releases Page](https://github.com/rixgeo/storyline-improvement/releases)
+* 📥 **Liberty City Download:** [Download SIM on Liberty City](https://libertycity.net/files/gta-san-andreas/232696-storyline-improvement.html)
+* 👤 **Liberty City Profile:** [rixgeo on Liberty City](https://libertycity.net/user/rixgeo/)
+* 💬 **Discord Community:** [Join the Discord Server](https://discord.gg/duzJypUqXK)
