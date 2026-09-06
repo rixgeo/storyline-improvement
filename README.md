@@ -22,7 +22,7 @@ The mod expands the game’s narrative by restoring additional cut dialogue and 
 ### 🔍 Core Focus
 
 * 🚫 **No New Missions:** SIM does not add custom missions. Instead, its focus is entirely on refining and expanding the existing storyline.
-* 🗣️ **Restored Content:** Reintroduces special characters, cut dialogue, and narrative elements originally removed or left unfinished during development.
+* 📦 **Restored Content:** Reintroduces special characters, cut dialogue, and narrative elements originally removed or left unfinished during development.
 * 🧩 **Authentic Continuity:** Every change is meticulously crafted to feel natural within the original structure of the game, maintaining absolute immersion.
 
 ---
