@@ -2,7 +2,9 @@
   <img src="SIMLOGO.png" alt="Storyline Improvement Logo" width="100%">
 </p>
 
-## 🌟 Grand Theft Auto: San Andreas
+<p align="center">
+  <img src="SA_LOGO.png" alt="Grand Theft Auto: San Andreas Logo" width="1260px">
+</p>
 
 <p align="center">
   <code>PROJECT</code> <b>STORYLINE IMPROVEMENT</b>
@@ -50,10 +52,45 @@ Check out the full walkthrough and demonstration of the mod in action:
   </a>
 </p>
 
-
 <p align="center">
   <span style="color: red;"><b>NOTE:</b> The full walkthrough video features an older build of <b>Storyline Improvement</b>. Some things may appear different.</span>
 </p>
+
+---
+
+## 📸 Screenshots
+
+<p align="center">
+  <em>Note: Other mods were used in the screenshots alongside <b>Storyline Improvement</b>.</em>
+</p>
+
+<table>
+  <tr>
+    <td align="center" width="33%"><img src="Images/ss1.png" width="100%" alt="Screenshot 1"></td>
+    <td align="center" width="33%"><img src="Images/ss2.png" width="100%" alt="Screenshot 2"></td>
+    <td align="center" width="33%"><img src="Images/ss3.png" width="100%" alt="Screenshot 3"></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%"><img src="Images/ss4.png" width="100%" alt="Screenshot 4"></td>
+    <td align="center" width="33%"><img src="Images/ss5.png" width="100%" alt="Screenshot 5"></td>
+    <td align="center" width="33%"><img src="Images/ss6.png" width="100%" alt="Screenshot 6"></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%"><img src="Images/ss7.png" width="100%" alt="Screenshot 7"></td>
+    <td align="center" width="33%"><img src="Images/ss8.png" width="100%" alt="Screenshot 8"></td>
+    <td align="center" width="33%"><img src="Images/ss9.png" width="100%" alt="Screenshot 9"></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%"><img src="Images/ss10.png" width="100%" alt="Screenshot 10"></td>
+    <td align="center" width="33%"><img src="Images/ss11.png" width="100%" alt="Screenshot 11"></td>
+    <td align="center" width="33%"><img src="Images/ss12.png" width="100%" alt="Screenshot 12"></td>
+  </tr>
+  <tr>
+    <td align="center" width="33%"><img src="Images/ss13.png" width="100%" alt="Screenshot 13"></td>
+    <td align="center" width="33%"><img src="Images/ss14.png" width="100%" alt="Screenshot 14"></td>
+    <td align="center" width="33%"><img src="Images/ss15.png" width="100%" alt="Screenshot 15"></td>
+  </tr>
+</table>
 
 ---
 
@@ -72,4 +109,4 @@ Get the mod, check out updates, and join the community through the links below:
 
 <div align="center">
   <sub>Copyright © 2026 rixgeo. All rights reserved.</sub>
-</div> 
+</div>
