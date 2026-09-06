@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="SA_LOGO.png" alt="Grand Theft Auto: San Andreas Logo" width="1260px">
+  <img src="SA_LOGO.png" alt="Grand Theft Auto: San Andreas Logo" width="1200px">
 </p>
 
 <p align="center">
@@ -101,9 +101,15 @@ Get the mod, check out updates, and join the community through the links below:
 * 🌐 **GitHub Releases (Direct Archive):** [GitHub Releases Page](https://github.com/rixgeo/storyline-improvement/releases)
 * 📥 **Liberty City Download:** [Download SIM on Liberty City](https://libertycity.net/files/gta-san-andreas/232696-storyline-improvement.html)
 * 👤 **Liberty City Profile:** [rixgeo on Liberty City](https://libertycity.net/user/rixgeo/)
+* 📺 **YouTube Channel:** [rixgeo on YouTube](https://www.youtube.com/@rixgeo)
 * 💬 **Discord Community:** [Join the Discord Server](https://discord.gg/duzJypUqXK)
 
 *Detailed installation instructions can be found inside the download archive.*
+
+<p align="center">
+  <span style="color: red;"><b>NOTE:</b> Storyline Improvement is also available on GTAinside & NexusMods, but they never have and never will receive updates. The reason to this is that these sites are difficult to work with.</span>
+</p>
+
 
 ---
 
