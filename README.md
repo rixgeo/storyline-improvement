@@ -40,8 +40,36 @@ It can be considered a fixed and refined alternative to *Storyline Enhancement* 
 
 ---
 
+## 🎥 Showcase & Walkthrough
+
+Check out the full walkthrough and demonstration of the mod in action:
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=BVpZiL_9fXk">
+    <img src="https://img.youtube.com/vi/BVpZiL_9fXk/maxresdefault.jpg" alt="GTA San Andreas Storyline Improvement Walkthrough" width="80%">
+  </a>
+</p>
+
+
+<p align="center">
+  <span style="color: red;"><b>NOTE:</b> The full walkthrough video features an older build of <b>Storyline Improvement</b>. Some things may appear different.</span>
+</p>
+
+---
+
 ## 📥 Download & Community
+
+Get the mod, check out updates, and join the community through the links below:
+
 * 🌐 **GitHub Releases (Direct Archive):** [GitHub Releases Page](https://github.com/rixgeo/storyline-improvement/releases)
 * 📥 **Liberty City Download:** [Download SIM on Liberty City](https://libertycity.net/files/gta-san-andreas/232696-storyline-improvement.html)
 * 👤 **Liberty City Profile:** [rixgeo on Liberty City](https://libertycity.net/user/rixgeo/)
 * 💬 **Discord Community:** [Join the Discord Server](https://discord.gg/duzJypUqXK)
+
+*Detailed installation instructions can be found inside the download archive.*
+
+---
+
+<div align="center">
+  <sub>Copyright © 2026 rixgeo. All rights reserved.</sub>
+</div> 
