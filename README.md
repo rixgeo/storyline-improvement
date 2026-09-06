@@ -38,7 +38,7 @@ It can be considered a fixed and refined alternative to *Storyline Enhancement b
 ### 📥 Download & Community
 
 * **GitHub Releases:** [Download from GitHub](../../releases)
-* **Liberty City Mirror:** [Download via LibertyCity.net](https://libertycity.net/files/gta-san-andreas/232696-storyline-improvement.html)
+* **Liberty City Download:** [Download via LibertyCity.net](https://libertycity.net/files/gta-san-andreas/232696-storyline-improvement.html)
 * **Creator Profile:** [View rixgeo on Liberty City](https://libertycity.net/user/rixgeo/)
 * **Community & Support:** [Join the Discord Server](https://discord.gg/duzJypUqXK)
 
